@@ -1,8 +1,15 @@
 groceries = ['apples', 'bananas', 'carrots', 'dates']
 
-groceries[0]
+groceries[0] 
 
-2+2
+groceries.append('eggs')
+
+print(groceries)
+
+
+
+
+
 
 
 
